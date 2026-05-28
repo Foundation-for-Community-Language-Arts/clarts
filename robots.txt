@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://foundation-for-community-language-arts.github.io/clarts/sitemap-index.xml
+Sitemap: https://www.foundationclarts.org/sitemap-index.xml
