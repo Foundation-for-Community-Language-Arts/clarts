@@ -1,4 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <rect width="512" height="512" rx="96" fill="#0F766E"/>
-    <text x="256" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="132" font-weight="700" fill="#FFFFFF">FCLA</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Foundation for Community Language and Arts">
+    <rect width="512" height="512" rx="96" fill="#051339"/>
+    <!-- FCLA emblem (from /assets/figma/icon-layer1.svg, viewBox 0 0 43 61),
+         scaled to ~300px tall and centered on the 512 tile. -->
+    <g transform="translate(150.25 106) scale(4.918)" fill="#FFFFFF">
+        <path d="M11.8599 27.1477L24.0282 27.1409L24.0419 24.7572L28.9613 24.7503V32.1555L16.7725 32.1624V54.8038H4.72753L4.73439 6.08626L38.2519 6.07939L38.2588 54.797H34.6275V9.70642L8.37253 9.69955L8.37938 51.0944L11.8531 51.1081L11.8599 27.1477Z"/>
+        <path d="M42.952 61H0.054812C-0.0068515 60.4298 -0.041109 59.7566 0.0616635 59.1796C0.260357 58.0599 1.16475 57.4691 2.26099 57.1944H40.5609C41.5886 57.1944 42.541 58.005 42.8356 58.8842C43.0685 59.5849 42.9931 60.3199 42.952 61Z"/>
+        <path d="M40.0333 3.75068H3.06262C1.82935 3.74381 0.835883 2.55541 0.82218 1.47005V0H42.1504L42.123 1.57995C42.1025 2.72027 41.1775 3.44155 40.0333 3.75068Z"/>
+        <path d="M16.7793 18.4855L16.7588 24.661L11.8531 24.6679L11.8599 13.4846L30.9208 13.4708L30.9345 18.4855H16.7793Z"/>
+        <path d="M23.8912 37.3694H20.2188V54.8038H23.8912V37.3694Z"/>
+        <path d="M30.9277 37.3625H27.2621V54.8176H30.9277V37.3625Z"/>
+    </g>
 </svg>
