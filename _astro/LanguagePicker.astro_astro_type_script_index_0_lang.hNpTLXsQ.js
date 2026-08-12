@@ -1,0 +1,1 @@
+import{n as e}from"./languageNavigation.CA_OUKSI.js";document.querySelectorAll(`[data-language-picker]`).forEach(t=>{t.addEventListener(`change`,()=>{let n=t.selectedOptions[0],r=n?.dataset.language;!n||r!==`en`&&r!==`es`||e({targetLanguage:r,targetPath:n.value})||(t.value=t.dataset.currentUrl||``)})});
